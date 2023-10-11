@@ -1,6 +1,6 @@
 {
-    "token": "YOUR_DISCORD_BOT_TOKEN",
-    "guildId": "YOUR_SERVER_ID",
+    "token": "MTE2MTc5NDE3MzQ4MjA1MzcwNA.GLySD9.qqTD5tYpRdIUYWO1ZvganGAXetfBeaFKoPMvvM",
+    "guildId": "1123235375633137685",
     "roleId": "THE_ROLE_YOU_WANT_TO_HAVE_RAINBOW_COLORS",
     "interval": 60000
   }
